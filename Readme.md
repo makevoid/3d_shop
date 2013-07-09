@@ -1,5 +1,10 @@
 # 3D Shop
 
+initial implementation inside 3dmaking repo: <http://github.com/makevoid/3dmaking>
+
+see lib/3dshop/3dshop.rb in that repo
+
+
 ### what:
 
 user wants to print an STL (or select one from thingiverse)
